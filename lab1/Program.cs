@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
 public class HW1
 {
     public static long QueueTime(int[] customers, int n)
